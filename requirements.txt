@@ -9,6 +9,7 @@ langchain_anthropic
 # LangChain Libs
 langchain
 langchain-core
+langchain-ollama
 
 # OpenAI Libs
 langchain-openai
@@ -32,3 +33,15 @@ python-dotenv
 # Machine Learning Libs
 numpy
 scikit-learn
+
+
+# -----------------
+
+youtube-transcript-api
+langchain-community
+langchain-openai
+faiss-cpu
+tiktoken
+python-dotenv
+langchain-text-splitters
+Ipython
