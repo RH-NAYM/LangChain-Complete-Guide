@@ -46,3 +46,12 @@ python-dotenv
 langchain-text-splitters
 Ipython
 grandalf
+
+
+langchain
+langchain-core
+langchain-community
+pydantic
+duckduckgo-search
+ddgs
+langchain-experimental
